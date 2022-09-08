@@ -1,6 +1,6 @@
 # 📎 Apple-Basket(팀명: 🥕가져가조)
-![1662615718993-0](https://user-images.githubusercontent.com/110793085/189060450-5f318eda-aaed-41ed-8778-9f25ea7fa358.jpg)
 ![image](https://user-images.githubusercontent.com/110793085/189018499-35a99c1f-427c-45bc-933b-f9e941ef1245.png)
+![1662615718993-0](https://user-images.githubusercontent.com/110793085/189060450-5f318eda-aaed-41ed-8778-9f25ea7fa358.jpg)
 
 
 ## 👀 프로젝트 소개
