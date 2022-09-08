@@ -51,8 +51,17 @@
 ![ERD](https://user-images.githubusercontent.com/110793085/189018830-0de7672b-7627-432f-84d4-13dd1186938e.png)
 
 
-💻화면 구성
-
+## 💻화면 구성
+### 메인 페이지
+![image](https://user-images.githubusercontent.com/110793085/189022641-731adb4d-97d3-4a67-b2ca-fb3b7fcb942a.png)
+### 상품목록 페이지
+![image](https://user-images.githubusercontent.com/110793085/189022604-09abf046-a1c5-47cf-a357-4cdd4a88cc82.png)
+### 게시판 페이지
+![image](https://user-images.githubusercontent.com/110793085/189022689-cdacd491-1292-4f38-b8d0-e8cba0b8f9bc.png)
+### 판매 페이지
+![image](https://user-images.githubusercontent.com/110793085/189022747-3e6f4569-bc19-4ff1-8d15-78bebb6866f0.png)
+### 결제 페이지
+![image](https://user-images.githubusercontent.com/110793085/189022835-315907e2-f51f-476b-a823-58122814bf14.png)
 
 ## 👨‍👩‍👦‍👦 팀원 역할
 <table>
